@@ -1,5 +1,5 @@
 body{
-    background: url(./imagens/background.jpg) no-repeat top center/cover;
+    background: url(./imagens/img.trabalho.etec.light.jpg) no-repeat top center/cover;
     width: 100%;
     max-width: 588px;
     height: 100vh;
@@ -25,7 +25,7 @@ img {
 }
 @media (min-width: 700px){
     body{
-        background: url(./imagens/img.trabalho.etec.light.jpg);
+        background: url(./imagens/background.jpgs);
         margin: auto;
     }
 }
