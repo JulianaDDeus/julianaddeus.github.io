@@ -1,0 +1,25 @@
+body{
+    background-image: url(./imagens/img.trabalho.etec.light.jpg);
+    background-size: cover;
+}
+div{
+    margin: auto;
+}
+h1{
+    background: #d18da2;
+    color: #2e7661;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+p, ul{
+    background: #2e7661;
+    color: #efdce2;
+    width: fit-content;
+}
+a {
+    color: #d18da2;
+}
+img {
+    height: 100px;
+}
