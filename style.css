@@ -1,8 +1,7 @@
 body{
-    background: url(./imagens/img.trabalho.etec.light.jpg) no-repeat top center/cover;
+    background: url(./imagens/background.jpg) no-repeat top center/cover;
     width: 100%;
-    max-width: 588px;
-    height: 100vh;
+    padding: 5px;
 }
 h1, h3{
     background: #d18da2;
@@ -23,9 +22,13 @@ img {
     height: 100px;
     border-radius: 50%;
 }
-@media (min-width: 700px){
-    body{
-        background: url(./imagens/background.jpgs);
-        margin: auto;
-    }
+table, td, thead {
+    border: 1px solid #4d634f;
+    color: #4d634f;
+    background-color:#d18da2;
+    border-radius: 5px;
+    padding: 2px;
+}
+table {
+    margin: 5px;
 }
