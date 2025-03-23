@@ -21,6 +21,7 @@ a {
 img {
     height: 100px;
     border-radius: 50%;
+    border: 2px solid #d18da2;
 }
 table, td, thead {
     border: 1px solid #4d634f;
